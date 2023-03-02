@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **utsavajay/utsavajay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently a student inthe Carlson MSBA prgram, graduationg in May 2023 
@@ -11,4 +11,4 @@
 - 📫 How to reach me: https://www.linkedin.com/in/utsav-ajay/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
--->
+
