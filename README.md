@@ -1,6 +1,9 @@
 ### Hi there 
 
-👋 LinkedIn GitHub
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/utsav-ajay/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub]([https://github.com/](https://github.com/utsavajay/utsavajay))
 
 **utsavajay/utsavajay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
