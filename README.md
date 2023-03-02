@@ -5,7 +5,7 @@
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/utsavajay/utsavajay)
 
-**utsavajay/utsavajay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 - 🔭 I’m currently a student inthe Carlson MSBA program, graduationg in May 2023 
 - 🌱 I’m currently learning all things analytics and data science
