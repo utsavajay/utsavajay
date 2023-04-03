@@ -14,5 +14,5 @@
 - 💬 Ask me about: 
 - 📫 How to reach me: :link https://www.linkedin.com/in/utsav-ajay/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: The popular yo-yo toy began as a weapon in the Philippines in the 16th century before being distributed in the United States as a toy in 1929. It was four pounds and had a 20-foot-long cord at the time.
 
